@@ -29,8 +29,7 @@ This repository will serve as a record of my practical learning journey in Windo
 	Management: Company operations and oversight
 
 # Project Objectives
-- [ ] Plan the network and virtual machine architecture
-- [ ] Install and configure Windows Server
+- [x] Install and configure Windows Server
 - [ ] Deploy Active Directory Domain Services (AD DS)
 - [ ] Configure DNS and domain authentication
 - [ ] Create Organizational Units (OUs) for departments and computers
