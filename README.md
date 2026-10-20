@@ -8,9 +8,7 @@ A hands-on IT infrastructure project focused on building, configuring, securing,
 # Project Overview
 
 Nexora Technologies is a fictional company with approximately 50 employees across multiple departments. This project simulates the work of an IT administrator responsible for managing the company's users, computers, network resources, and security.
-
 The goal is to build the environment from scratch and document each stage, including configuration decisions, testing, troubleshooting, and lessons learned.
-
 This repository will serve as a record of my practical learning journey in Windows Server administration and IT infrastructure.
 
 # Company Profile
