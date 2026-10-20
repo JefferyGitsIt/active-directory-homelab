@@ -30,11 +30,11 @@ Deploy and configure the first Windows Server virtual machine for the Nexora Tec
 
 **DC01 - Windows Server Configuration**
 
-![Windows Server Configuration](screenshots/dc01-server-manager.png)
+![Windows Server Configuration](../screenshots/dc01-server-manager.png)
 
 **DC01 - Network Configuration**
 
-![Network Configuration](screenshots/dc01-network-config.png)
+![Network Configuration](../screenshots/dc01-network-config.png)
 
 # Outcome
 
