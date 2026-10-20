@@ -1,7 +1,7 @@
 # Nexora Technologies - Active Directory Homelab
 A hands-on IT infrastructure project focused on building, configuring, securing, and documenting a fictional company's Windows Server and Active Directory environment.
 
-	Project status: Planning 
+	Project status: In Progress
 	Environment: Personal homelab / virtual lab
 	Company: Nexora Technologies (fictional)
 
@@ -29,7 +29,7 @@ This repository will serve as a record of my practical learning journey in Windo
 	Management: Company operations and oversight
 
 # Project Objectives
-- [x] Install and configure Windows Server
+- [ ] Install and configure Windows Server
 - [ ] Deploy Active Directory Domain Services (AD DS)
 - [ ] Configure DNS and domain authentication
 - [ ] Create Organizational Units (OUs) for departments and computers
