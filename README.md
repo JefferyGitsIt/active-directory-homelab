@@ -30,9 +30,9 @@ This repository will serve as a record of my practical learning journey in Windo
 
 # Project Objectives
 - [x] Install and configure Windows Server
-- [ ] Deploy Active Directory Domain Services (AD DS)
-- [ ] Configure DNS and domain authentication
-- [ ] Create Organizational Units (OUs) for departments and computers
+- [x] Deploy Active Directory Domain Services (AD DS)
+- [x] Configure DNS and domain authentication
+- [x] Create Organizational Units (OUs) for departments and computers
 - [ ] Create and manage fictional employee accounts
 - [ ] Configure security groups and resource permissions
 - [ ] Join Windows client machines to the domain
