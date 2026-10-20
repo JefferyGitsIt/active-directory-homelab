@@ -17,7 +17,7 @@ This repository will serve as a record of my practical learning journey in Windo
 	Industry: Business technology services
 	Company size: Approximately 50 employees
 	Headquarters: Denver, Colorado (fictional)
-	Planned Active Directory domain: nexora.local
+	Planned Active Directory domain: ad.nexora.test
 	Environment: Isolated virtual homelab
 
 # Departments
@@ -29,7 +29,7 @@ This repository will serve as a record of my practical learning journey in Windo
 	Management: Company operations and oversight
 
 # Project Objectives
-- [ ] Install and configure Windows Server
+- [x] Install and configure Windows Server
 - [ ] Deploy Active Directory Domain Services (AD DS)
 - [ ] Configure DNS and domain authentication
 - [ ] Create Organizational Units (OUs) for departments and computers
