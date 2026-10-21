@@ -49,11 +49,11 @@ The following is the initial design, not a deployed configuration. IP addresses 
 	Virtual network - Isolated network for the lab
 
 # Lab Documentation
-- [Lab 01 - Windows Server 2025 Installation and Configuration](../lab/01%-%Windows%Server%2025%Installation%and%Configuration.md)
-- [Lab 02 - Active Directory Domain Services Deployment](../lab/02%-%Active%Directory%Domain%Services%Deployment.md)
-- [Lab 03 - Active Directory Organizational Units](../lab/03%-%Active%Directory%Organizational%Units.md)
-- [Lab 04 - Active Directory User Accounts and Security Groups](../lab/04%-%Active%Directory%User%Accounts%and%Security%Groups.md)
-- [Lab 05 - Windows 11 Domain Joining and Authentication](../lab/05%-%Windows%11%Domain%Joining%and%Authentication.md)
+- [Lab 01 - Windows Server 2025 Installation and Configuration](./lab/01%-%Windows%Server%2025%Installation%and%Configuration.md)
+- [Lab 02 - Active Directory Domain Services Deployment](./lab/02%-%Active%Directory%Domain%Services%Deployment.md)
+- [Lab 03 - Active Directory Organizational Units](./lab/03%-%Active%Directory%Organizational%Units.md)
+- [Lab 04 - Active Directory User Accounts and Security Groups](./lab/04%-%Active%Directory%User%Accounts%and%Security%Groups.md)
+- [Lab 05 - Windows 11 Domain Joining and Authentication](./lab/05%-%Windows%11%Domain%Joining%and%Authentication.md)
 
 # Technologies and Skills
 - Windows Server
