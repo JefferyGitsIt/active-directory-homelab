@@ -6,13 +6,11 @@ A hands-on IT infrastructure project focused on building, configuring, securing,
 	Company: Nexora Technologies (fictional)
 
 # Project Overview
-
 Nexora Technologies is a fictional company with approximately 50 employees across multiple departments. This project simulates the work of an IT administrator responsible for managing the company's users, computers, network resources, and security.
 The goal is to build the environment from scratch and document each stage, including configuration decisions, testing, troubleshooting, and lessons learned.
 This repository will serve as a record of my practical learning journey in Windows Server administration and IT infrastructure.
 
 # Company Profile
-
 	Company: Nexora Technologies
 	Industry: Business technology services
 	Company size: Approximately 50 employees
@@ -21,7 +19,6 @@ This repository will serve as a record of my practical learning journey in Windo
 	Environment: Isolated virtual homelab
 
 # Departments
-
 	Human Resources (HR): Employee records and personnel documents
 	Accounting: Financial records and invoices
 	Sales: Customer accounts and sales documents
@@ -31,11 +28,11 @@ This repository will serve as a record of my practical learning journey in Windo
 # Project Objectives
 - [x] Install and configure Windows Server
 - [x] Deploy Active Directory Domain Services (AD DS)
-- [ ] Configure DNS and domain authentication
+- [x] Configure DNS and domain authentication
 - [x] Create Organizational Units (OUs) for departments and computers
 - [x] Create and manage fictional employee accounts
 - [ ] Configure security groups and resource permissions
-- [ ] Join Windows client machines to the domain
+- [x] Join Windows client machines to the domain
 - [ ] Configure and test Group Policy Objects (GPOs)
 - [ ] Deploy a file server with department-specific access
 - [ ] Practice troubleshooting and review Windows event logs
@@ -51,8 +48,14 @@ The following is the initial design, not a deployed configuration. IP addresses 
 	FILE01 - File server and departmental shares
 	Virtual network - Isolated network for the lab
 
-# Technologies and Skills
+# Lab Documentation
+- [Lab 01 - Windows Server 2025 Installation and Configuration](../lab/01%-%Windows%Server%2025%Installation%and%Configuration.md)
+- [Lab 02 - Active Directory Domain Services Deployment](../lab/02%-%Active%Directory%Domain%Services%Deployment.md)
+- [Lab 03 - Active Directory Organizational Units](../lab/03%-%Active%Directory%Organizational%Units.md)
+- [Lab 04 - Active Directory User Accounts and Security Groups](../lab/04%-%Active%Directory%User%Accounts%and%Security%Groups.md)
+- [Lab 05 - Windows 11 Domain Joining and Authentication](../lab/05%-%Windows%11%Domain%Joining%and%Authentication.md)
 
+# Technologies and Skills
 - Windows Server
 - Active Directory Domain Services (AD DS)
 - DNS
@@ -65,7 +68,6 @@ The following is the initial design, not a deployed configuration. IP addresses 
 - Git and GitHub documentation
 
 # Skills being developed
-
 - User and computer account management
 - Identity and access management
 - Least-privilege access control
