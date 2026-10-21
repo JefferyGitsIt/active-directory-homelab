@@ -54,6 +54,7 @@ The following is the initial design, not a deployed configuration. IP addresses 
 - [Lab 03 - Active Directory Organizational Units](lab/03%20-%20Active%20Directory%20Organizational%20Units.md)
 - [Lab 04 - Active Directory User Accounts and Security Groups](lab/04%20-%20Active%20Directory%20User%20Accounts%20and%20Security%20Groups.md)
 - [Lab 05 - Windows 11 Domain Joining and Authentication](lab/05%20-%20Windows%2011%20Domain%20Joining%20and%20Authentication.md)
+- [Lab 06 - Multiple Domain Workstations and Active Directory Trust Troubleshooting](lab/06%20-%20Multiple%20Domain%20Workstations%20and%20Active%20Directory%20Trust%20Troubleshooting.md)
 
 # Technologies and Skills
 - Windows Server
