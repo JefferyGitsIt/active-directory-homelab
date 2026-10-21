@@ -50,10 +50,10 @@ The following is the initial design, not a deployed configuration. IP addresses 
 
 # Lab Documentation
 - [Lab 01 - Windows Server 2025 Installation and Configuration](lab/01%20-%20Windows%20Server%202025%20Installation%20and%20Configuration.md)
-- [Lab 02 - Active Directory Domain Services Deployment](lab/02%-%Active%Directory%Domain%Services%Deployment.md)
-- [Lab 03 - Active Directory Organizational Units](lab/03%-%Active%Directory%Organizational%Units.md)
-- [Lab 04 - Active Directory User Accounts and Security Groups](lab/04%-%Active%Directory%User%Accounts%and%Security%Groups.md)
-- [Lab 05 - Windows 11 Domain Joining and Authentication](lab/05%-%Windows%11%Domain%Joining%and%Authentication.md)
+- [Lab 02 - Active Directory Domain Services Deployment](lab/02%20-%20Active%20Directory%20Domain%20Services%20Deployment.md)
+- [Lab 03 - Active Directory Organizational Units](lab/03%20-%20Active%20Directory%20Organizational%20Units.md)
+- [Lab 04 - Active Directory User Accounts and Security Groups](lab/04%20-%20Active%20Directory%20User%20Accounts%20and%20Security%20Groups.md)
+- [Lab 05 - Windows 11 Domain Joining and Authentication](lab/05%20-%20Windows%2011%20Domain%20Joining%20and%20Authentication.md)
 
 # Technologies and Skills
 - Windows Server
