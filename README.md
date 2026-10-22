@@ -31,10 +31,10 @@ This repository will serve as a record of my practical learning journey in Windo
 - [x] Configure DNS and domain authentication
 - [x] Create Organizational Units (OUs) for departments and computers
 - [x] Create and manage fictional employee accounts
-- [ ] Configure security groups and resource permissions
+- [x] Configure security groups and resource permissions
 - [x] Join Windows client machines to the domain
 - [x] Configure and test Group Policy Objects (GPOs)
-- [ ] Deploy a file server with department-specific access
+- [x] Deploy a file server with department-specific access
 - [ ] Practice troubleshooting and review Windows event logs
 - [ ] Document security improvements and lessons learned
 
@@ -56,6 +56,7 @@ The following is the initial design, not a deployed configuration. IP addresses 
 - [Lab 05 - Windows 11 Domain Joining and Authentication](lab/05%20-%20Windows%2011%20Domain%20Joining%20and%20Authentication.md)
 - [Lab 06 - Multiple Domain Workstations and Active Directory Trust Troubleshooting](lab/06%20-%20Multiple%20Domain%20Workstations%20and%20Active%20Directory%20Trust%20Troubleshooting.md)
 - [Lab 07 - Group Policy Configuration and Verification](lab/07%20-%20Group%20Policy%20Configuration%20and%20Verification.md)
+- [Lab 08 - Windows File Server Deployment and Departmental Access Control](lab/08%20-%20Windows%20File%20Server%20Deployment%20and%20Departmental%20Access%20Control.md)
 
 # Technologies and Skills
 - Windows Server
