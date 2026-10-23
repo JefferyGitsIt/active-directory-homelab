@@ -35,7 +35,7 @@ This repository will serve as a record of my practical learning journey in Windo
 - [x] Join Windows client machines to the domain
 - [x] Configure and test Group Policy Objects (GPOs)
 - [x] Deploy a file server with department-specific access
-- [ ] Practice troubleshooting and review Windows event logs
+- [x] Practice troubleshooting and review Windows event logs
 - [ ] Document security improvements and lessons learned
 
 # Planned Infrastructure
@@ -57,6 +57,7 @@ The following is the initial design, not a deployed configuration. IP addresses 
 - [Lab 06 - Multiple Domain Workstations and Active Directory Trust Troubleshooting](lab/06%20-%20Multiple%20Domain%20Workstations%20and%20Active%20Directory%20Trust%20Troubleshooting.md)
 - [Lab 07 - Group Policy Configuration and Verification](lab/07%20-%20Group%20Policy%20Configuration%20and%20Verification.md)
 - [Lab 08 - Windows File Server Deployment and Departmental Access Control](lab/08%20-%20Windows%20File%20Server%20Deployment%20and%20Departmental%20Access%20Control.md)
+- [Lab 09 - Controlled Failed Login and Kerberos Authentication Auditing](lab/09%20-%20Controlled%20Failed%20Login%20and%20Kerberos%20Authentication%20Auditing.md)
 
 # Technologies and Skills
 - Windows Server
