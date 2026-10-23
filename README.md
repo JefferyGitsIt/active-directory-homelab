@@ -1,7 +1,7 @@
 # Nexora Technologies - Active Directory Homelab
 A hands-on IT infrastructure project focused on building, configuring, securing, and documenting a fictional company's Windows Server and Active Directory environment.
 
-	Project status: In Progress
+	Project status: Completed
 	Environment: Personal homelab / virtual lab
 	Company: Nexora Technologies (fictional)
 
